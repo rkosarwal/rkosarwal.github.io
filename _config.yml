@@ -1,0 +1,13 @@
+title: Rahul Kosarwal
+description: AI, Data & Digital Transformation Leader
+author: Rahul Kosarwal
+
+theme: minima
+
+markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+show_excerpts: true
